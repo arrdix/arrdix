@@ -1,4 +1,10 @@
 ### Hi there 👋
+- ✌🏻 I'm Ardi
+- 🤍 I'm interested in Software Engineering and Web Development
+- 🌱 I'm currently learning Front-End Web Development Learning Path
+- 👀 Reach me on 
+<a href="https://www.instagram.com/arrdix/" target="_blank">Instagram</a> or
+<a href="https://www.linkedin.com/in/yudistiraardi>/" target="_blank">LinkedIn</a>
 
 <!--
 **arrdix/arrdix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
