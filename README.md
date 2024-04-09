@@ -1,7 +1,7 @@
 ### Hi there 👋
 - ✌🏻 I'm Ardi
 - 🤍 I'm interested in Software Engineering and Web Development
-- 🌱 I'm currently learning on Full Stack Development Learning Path
+- 🌱 I'm currently learning on Full Stack Development learning path
 - 👀 Reach me on 
 <a href="https://www.instagram.com/arrdix/" target="_blank">Instagram</a> or
 <a href="https://www.linkedin.com/in/yudistiraardi/" target="_blank">LinkedIn</a>
